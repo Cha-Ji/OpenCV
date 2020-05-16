@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		EDF4D04D246F963500250A94 /* OpenCV_9Week */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OpenCV_9Week; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDF4D050246F963500250A94 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EDF4D059246FB43600250A94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Base; path = Base.lproj/background.jpg; sourceTree = "<group>"; };
+		EDF4D05B246FB43F00250A94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Base; path = Base.lproj/object.jpg; sourceTree = "<group>"; };
+		EDF4D05D246FC63100250A94 /* OpenCV_9Week.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OpenCV_9Week.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,9 @@
 		EDF4D04F246F963500250A94 /* OpenCV_9Week */ = {
 			isa = PBXGroup;
 			children = (
+				EDF4D05D246FC63100250A94 /* OpenCV_9Week.entitlements */,
+				EDF4D05A246FB43600250A94 /* background.jpg */,
+				EDF4D05C246FB43F00250A94 /* object.jpg */,
 				EDF4D050246F963500250A94 /* main.cpp */,
 			);
 			path = OpenCV_9Week;
@@ -124,6 +130,25 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EDF4D05A246FB43600250A94 /* background.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDF4D059246FB43600250A94 /* Base */,
+			);
+			name = background.jpg;
+			sourceTree = "<group>";
+		};
+		EDF4D05C246FB43F00250A94 /* object.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDF4D05B246FB43F00250A94 /* Base */,
+			);
+			name = object.jpg;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		EDF4D052246F963500250A94 /* Debug */ = {
@@ -238,6 +263,7 @@
 		EDF4D055246F963500250A94 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = OpenCV_9Week/OpenCV_9Week.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 883M9Z32HK;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -307,6 +333,7 @@
 		EDF4D056246F963500250A94 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = OpenCV_9Week/OpenCV_9Week.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 883M9Z32HK;
 				ENABLE_HARDENED_RUNTIME = YES;

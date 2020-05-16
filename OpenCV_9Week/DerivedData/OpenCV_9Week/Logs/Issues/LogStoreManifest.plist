@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>1DE649A5-D907-4F82-9250-B4C8EAE03923</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>1DE649A5-D907-4F82-9250-B4C8EAE03923.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>OpenCV_9Week-guhqxhcqrxhgbpegddqhwaxcredu</string>
+			<key>timeStartedRecording</key>
+			<real>611308151.73522198</real>
+			<key>timeStoppedRecording</key>
+			<real>611308153.48062301</real>
+			<key>title</key>
+			<string>Build target OpenCV_9Week</string>
+			<key>uniqueIdentifier</key>
+			<string>1DE649A5-D907-4F82-9250-B4C8EAE03923</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
