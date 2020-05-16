@@ -14,7 +14,7 @@
 
     img_bgr_src[0..2] : BGR
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7afb5bf-48f7-4534-8e79-a48052fac442/_2020-05-16__12.54.39.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7afb5bf-48f7-4534-8e79-a48052fac442/_2020-05-16__12.54.39.png)
+
 
     ⇒ 백색에 다시 색을 입혀줘야 한다.
 
@@ -33,10 +33,7 @@
     merge(img_tmp, img_bgr_split[0]);
     ```
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a33c9dee-a882-42ab-8f1e-1d30a50caf6c/_2020-05-16__1.04.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a33c9dee-a882-42ab-8f1e-1d30a50caf6c/_2020-05-16__1.04.07.png)
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41044adb-e760-43e5-9c0c-0b2aa1431661/_2020-05-16__1.08.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41044adb-e760-43e5-9c0c-0b2aa1431661/_2020-05-16__1.08.11.png)
-
+   
     - mixChannel : 알아서 실습
 
     ## 행렬 간 연산
@@ -78,13 +75,8 @@
 
     ellipse : 부채꼴, 각도
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d93474c-0f2e-46fe-a999-b255e8e27ee8/_2020-05-16__2.24.40.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d93474c-0f2e-46fe-a999-b255e8e27ee8/_2020-05-16__2.24.40.png)
 
     360도 : 원
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3045a80d-017a-46f7-a381-9f9d29345258/_2020-05-16__2.23.29.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3045a80d-017a-46f7-a381-9f9d29345258/_2020-05-16__2.23.29.png)
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a08d7f6b-4553-463d-901c-58b9f9d0e971/_2020-05-16__2.22.57.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a08d7f6b-4553-463d-901c-58b9f9d0e971/_2020-05-16__2.22.57.png)
 
     bitwise_and
 
