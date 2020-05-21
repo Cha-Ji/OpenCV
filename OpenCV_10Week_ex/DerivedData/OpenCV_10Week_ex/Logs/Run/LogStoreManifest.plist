@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>184CF844-B37C-4152-83FF-AEE9CD1D8569</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>184CF844-B37C-4152-83FF-AEE9CD1D8569.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenCV_10Week_ex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenCV_10Week_ex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>timeStartedRecording</key>
+			<real>611743513.26147699</real>
+			<key>timeStoppedRecording</key>
+			<real>611743530.47251201</real>
+			<key>title</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>uniqueIdentifier</key>
+			<string>184CF844-B37C-4152-83FF-AEE9CD1D8569</string>
+		</dict>
+		<key>2D9560D5-4887-4C4E-95F8-22BE40A3C5BD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2D9560D5-4887-4C4E-95F8-22BE40A3C5BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenCV_10Week_ex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenCV_10Week_ex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>timeStartedRecording</key>
+			<real>611743154.12713599</real>
+			<key>timeStoppedRecording</key>
+			<real>611743336.53977203</real>
+			<key>title</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>uniqueIdentifier</key>
+			<string>2D9560D5-4887-4C4E-95F8-22BE40A3C5BD</string>
+		</dict>
+		<key>5A79E3E4-4A4F-45EE-999F-1850EE0A2533</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5A79E3E4-4A4F-45EE-999F-1850EE0A2533.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenCV_10Week_ex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenCV_10Week_ex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>timeStartedRecording</key>
+			<real>611743698.06353104</real>
+			<key>timeStoppedRecording</key>
+			<real>611744044.43887997</real>
+			<key>title</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>uniqueIdentifier</key>
+			<string>5A79E3E4-4A4F-45EE-999F-1850EE0A2533</string>
+		</dict>
+		<key>7D9AEB2A-4D84-4241-875A-073AFB488BC1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7D9AEB2A-4D84-4241-875A-073AFB488BC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenCV_10Week_ex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenCV_10Week_ex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>timeStartedRecording</key>
+			<real>611743112.32206297</real>
+			<key>timeStoppedRecording</key>
+			<real>611743152.04539096</real>
+			<key>title</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>uniqueIdentifier</key>
+			<string>7D9AEB2A-4D84-4241-875A-073AFB488BC1</string>
+		</dict>
+		<key>B3518DD1-8C16-4CD1-9342-622B8F7862FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B3518DD1-8C16-4CD1-9342-622B8F7862FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenCV_10Week_ex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenCV_10Week_ex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>timeStartedRecording</key>
+			<real>611743339.26596606</real>
+			<key>timeStoppedRecording</key>
+			<real>611743377.62062502</real>
+			<key>title</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>uniqueIdentifier</key>
+			<string>B3518DD1-8C16-4CD1-9342-622B8F7862FC</string>
+		</dict>
+		<key>EC0869C3-F3E4-497F-A51D-25C2BBE741D3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC0869C3-F3E4-497F-A51D-25C2BBE741D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenCV_10Week_ex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenCV_10Week_ex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>timeStartedRecording</key>
+			<real>611743537.29155898</real>
+			<key>timeStoppedRecording</key>
+			<real>611743540.45584095</real>
+			<key>title</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>uniqueIdentifier</key>
+			<string>EC0869C3-F3E4-497F-A51D-25C2BBE741D3</string>
+		</dict>
+		<key>F2208299-EF83-44CD-8736-BBBB4927C5EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F2208299-EF83-44CD-8736-BBBB4927C5EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>OpenCV_10Week_ex project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>OpenCV_10Week_ex</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>timeStartedRecording</key>
+			<real>611743379.33714402</real>
+			<key>timeStoppedRecording</key>
+			<real>611743511.32276106</real>
+			<key>title</key>
+			<string>Run OpenCV_10Week_ex</string>
+			<key>uniqueIdentifier</key>
+			<string>F2208299-EF83-44CD-8736-BBBB4927C5EF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
