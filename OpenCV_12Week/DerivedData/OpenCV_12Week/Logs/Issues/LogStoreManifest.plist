@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>61BD2EE5-FD97-475A-BCC6-96E4D3D184EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>61BD2EE5-FD97-475A-BCC6-96E4D3D184EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>OpenCV_12Week-auihdbgqagsmwybkwpheqcpggpmt</string>
+			<key>timeStartedRecording</key>
+			<real>613356344.533301</real>
+			<key>timeStoppedRecording</key>
+			<real>613356346.83359396</real>
+			<key>title</key>
+			<string>Build target OpenCV_12Week</string>
+			<key>uniqueIdentifier</key>
+			<string>61BD2EE5-FD97-475A-BCC6-96E4D3D184EC</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

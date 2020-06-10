@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6923A58C1FB276A4229266A0158F0AF45675DA91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6923A58C1FB276A4229266A0158F0AF45675DA91" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F17E30F7-539A-4658-B094-460238A363E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6923A58C1FB276A4229266A0158F0AF45675DA91" : "Git\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenCV_12Week",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenCV_12Week\/OpenCV_12Week.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Cha-Ji\/OpenCV.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6923A58C1FB276A4229266A0158F0AF45675DA91"
+    }
+  ]
+}
